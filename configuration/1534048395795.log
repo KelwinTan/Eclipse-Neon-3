@@ -1,0 +1,10 @@
+!SESSION 2018-08-12 11:33:15.651 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_172
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_ID
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.equinox.registry 2 0 2018-08-12 11:33:17.722
+!MESSAGE The extensions and extension-points from the bundle "gov.sandia.jess" are ignored. The bundle is not marked as singleton. 
